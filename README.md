@@ -6,8 +6,8 @@ I'm a senior at LSU studying Information Systems & Analytics. Recently, I develo
 
 * [ ] Complete DevOps Bootcamp (Based off of TechWorld with Nana's Roadmap)
     * [x] Section 1: DevOps Pre-Requisites
-    * [ ] Section 2: DevOps Fundamentals (in progress)
-    * [ ] Section 3: DevOps Core
+    * [x] Section 2: DevOps Fundamentals
+    * [ ] Section 3: DevOps Core (in progress)
     * [ ] Section 4: DevOps Advanced
 * [ ] Read Practice of System and Network Administration, The: DevOps and other Best Practices for Enterprise IT, Volume 1
 
